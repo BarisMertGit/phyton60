@@ -22,6 +22,7 @@
 # print("sayıların toplamı:", int(a) + int(b))
 # print("sayıların çarpımı:", int(a) * int(b))
 # print("sayıların farkı:", int(a) - int(b))
+
 # print("sayıların bölümü:", int(a) / int(b))
 
 
@@ -60,12 +61,12 @@
 
 # pratiktest3-3
 
-a = input("bir sayı girin:")
-b = input("başka bir sayı girin:")
+# a = input("bir sayı girin:")
+# b = input("başka bir sayı girin:")
 
-c= str(int(a)) + str(int(b))
+# c= str(int(a)) + str(int(b))
 
-print(c)
+# print(c)
 
 
 
